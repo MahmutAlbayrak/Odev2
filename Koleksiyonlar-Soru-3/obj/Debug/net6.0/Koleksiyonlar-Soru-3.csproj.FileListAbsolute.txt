@@ -1,0 +1,15 @@
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.exe
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.deps.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.runtimeconfig.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.AssemblyInfo.cs
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\refint\Koleksiyonlar-Soru-3.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.genruntimeconfig.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\ref\Koleksiyonlar-Soru-3.dll
